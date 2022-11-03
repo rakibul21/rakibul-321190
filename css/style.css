@@ -1,0 +1,61 @@
+.text-color{ color: #536A7F; }
+.bg-color{ background-color: #ff4800; }
+.bg-color:hover{background-color: #d93d00;}
+.my-nav-link{ font-weight: bold; }
+
+
+.banner-section
+{
+    height: 800px;
+    background-image: url("../img/slider01.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.banner-section-noimg
+{
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+}
+
+.banner-card h3
+{
+    font-size: 50px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+
+.banner-card h1
+{
+    font-size: 65px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+.form-card
+{
+    padding-top: 85px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.icon-color{
+    color: #0dcaf0;
+}
+
+.footer-bg-one{
+    background-color: #2F4052;
+}
+
+.footer-bg-two{
+    background-color: #283645;
+}
+.btn-color{
+    background-color: #00BC9C;
+}
+
+
+
+
+
